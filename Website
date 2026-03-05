@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SCC Class</title>
+</head>
+
+<body>
+
+  <p style="font-size:100px; color:blue;">
+    This is my first class
+  </p>
+
+  <a href="https://www.utar.edu.my">
+    This is sponsored by UTAR
+  </a>
+
+</body>
+</html>
